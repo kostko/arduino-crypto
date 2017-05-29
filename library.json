@@ -9,13 +9,10 @@
         "email": "rhys.weatherley@gmail.com",
         "url": "https://rweather.github.io/arduinolibs/crypto.html"
     },
-    "export": {
-      "include": "libraries/Crypto"
-    },
     "repository":
     {
         "type": "git",
-        "url": "https://github.com/rweather/arduinolibs.git"
+        "url": "https://github.com/kostko/arduino-crypto.git"
     },
     "frameworks": "arduino",
     "platforms": "*"
